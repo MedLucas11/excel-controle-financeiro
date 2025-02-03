@@ -20,6 +20,7 @@ A planilha é composta por diferentes abas que trabalham em conjunto para propor
 - Permite cadastrar **categorias de receitas e despesas**, **formas de pagamento** e **bancos**.
 - O usuário também pode definir o **saldo inicial** de cada banco.
 - Tudo é feito por meio de **UserForms em VBA**, garantindo inserção automática dos dados.
+
 ![](imagens/exemplo_userform1.png)
 
 ### **2️⃣ Planilha "Controle"**
@@ -37,6 +38,7 @@ A planilha é composta por diferentes abas que trabalham em conjunto para propor
   - ✅ **Status** (Pago ou Não Pago)
 - As transações são filtráveis por qualquer um desses critérios.
 - Para transações **não pagas**, um **botão automático** é criado para marcar como "pago" quando quitado.
+
 ![](imagens/exemplo_userformTransacao.png)
 
 ### **3️⃣ Planilha "Metas"**
